@@ -1,0 +1,4921 @@
+.sprite-0x {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-lbrycredits {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-2give {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-300token {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-808coin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-8bit {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-BilShares {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-BlockShares {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-Ixcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-J1wuW41H {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-MONACOINtop {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-achain {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-zilliqa {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-adex {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-adtoken {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-adzcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-aelf {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-aeon {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-aerome {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-aeternity {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-agorastokens {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-aiden {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-aidoskuneen {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-aion {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-airswap {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-ambercoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-anc_icon {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-anoncoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-antshares {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-apicoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-applebyte {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-applecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-apx {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-aragon {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-archcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-arcticcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-ardor {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-ark {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-artbyte {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-asch {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-asiacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-atmchain {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-atmos {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-atomic {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-aud {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-augur {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-auroracoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-bancor {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-bancornetwork {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-banx {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-basicattenti... {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-basicattenti {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-bata {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-batcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-bcap {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-belacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-betacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-binancecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitGold {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitasean {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitbar {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitbay {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitbean {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitcny {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitcoincash {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitcoindark {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitcoindiamond {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitcoingold {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitcoinplus {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitcoinprivate {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitcointx {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitconnect {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitcore {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitcrystals {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitdeal {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitgem {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitland {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitlux {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitmark {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitpark-coin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitquence {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitshares pts {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitshares {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitsharespts {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitsharesx {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitstake {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitstar {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitswift {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-bitusd {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-blackcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-blackmooncrypto {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-blitz {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-blitzcash {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-blocknet {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-blockpay {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-blockv {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-bluecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-boolberry {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-boomcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-boostcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-bottlecaps {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-breakout {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-breakoutstake {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-brl {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-burst {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-byteball {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-byteballbytes {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-bytecent {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-bytecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-bytom {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-cad {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-caix {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-camorracoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-cannabiscoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-cardano {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-carpediemcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-casinocoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-catcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-centra {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-centrality {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-chaincoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-chainlink {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-chancecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-chf {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-chncoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-chococoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-chronobank {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-cindicator {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-cinni {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-circuitsofv {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-civic {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-clams {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-cleanwatercoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-cloakcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-cny {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-cobinhood {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-coeval {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-cofoundit {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-coin2.1 {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-coin2 {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-coindash {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-coino {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-coinomat {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-coinousd {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-communitycoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-cortex {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-counterparty {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-crave {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-creditbit {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-credits {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-crevacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-crown {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-cryptcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-crypti {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-crypto bullion {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-crypto20 {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-cryptobuk {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-cryptobullion {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-cryptocoins {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-cryptonex {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-cryptonite {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-curecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-cvcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-czacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-czechcrowncoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-darcrus {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-darkcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-darknote {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-dash {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-databits {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-daxxcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-daytradercoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-debune {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-decent {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-decred {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-deepbrainchain {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-deeponion {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-default {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-dent {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-dentacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-deutsche.emark {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-deutscheemark {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-devcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-dew {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-diamond {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-digibyte {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-digibytelogo {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-digipulse {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-digitalcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-digitalnote {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-digixdao {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-dirac {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-district0x {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-dnotes {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-dnotes2 {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-dogecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-dogecoindark {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-dogeparty {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-dogeparty@2x {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-dollar {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-dopecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-doubloons {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-dragonchain {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-dubaicoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-e-dinarcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-earthcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-eb3coin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-eboost {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-ecccoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-ecobit {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-ecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-ecurrencycoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-edgeless {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-edinarcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-einsteinium {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-elastic {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-elastos {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-electra {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-electroneum {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-electronic-gulden {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-electronicgulden {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-embers {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-emc {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-emercoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-encryptotel {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-energycoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-enigma {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-enjincoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-eos {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-eryllium {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-espers {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-ethercoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-ethereum {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-ethereumclassic {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-ethereummovi {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-etheroll {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-ethos {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-eur {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-everex {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-exclusivecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-execoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-expanse {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-experiencepo {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-experiment 10k {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-experiment-10k {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-experiment10k {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-experment 10k {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-extreme 2 {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-extreme {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-extremecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-factom {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-faircoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-fastcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-favela_da_mare {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-feathercoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-fedoracoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-fibre {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-fimkrypto {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-firstblood {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-firstbloodprelaunch {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-firstcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-flappycoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-florincoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-fluttercoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-foldingcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-freemarket {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-freicoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-freshcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-fuelcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-funfair {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-fusion {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-gambit {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-gamecredits {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-ziftrcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-ganjacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-gas {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-gbp {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-geocoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-getgems {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-gifto {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-givecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-globalcurren {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-glyph {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-gnosis {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-goldcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-golem {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-golos {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-grandcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-greenbacks {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-gridcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-groestlcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-gulden {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-guldencoin (2) {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-guldencoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-gxchain {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-gxshares {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-hackergold {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-happycoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-heat {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-hellascoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-hkd {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-hobonickels {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-horizon {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-hshare {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-htmlcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-humaniq {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-huntercoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-hyper {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-hyperstake {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-i0coin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-icash {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-ico {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-icoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-icon {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-iconomi {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-icoopenledger {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-iexec {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-iexecrlc {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-ignis {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-incakoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-incent {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-infinitecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-influxcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-inr {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-insanecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-instantdex {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-insurex {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-iocoin 2 {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-iocoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-ion {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-iostoken {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-iota {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-isracoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-jackpot {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-jackpotcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-jay {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-jinn {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-jl777hodl {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-jpy {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-jumbucks {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-karma {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-kin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-klondikecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-kolschcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-komodo {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-krugercoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-krypton {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-kucoinshares {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-kybernetwork {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-lbry_credits {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-pinkcoin {
+    width: 21px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -915px;
+	background-size: 945px 945px;
+}
+
+.sprite-leocoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-librexcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-limecoinx {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-liquid {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-lisk {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-litecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-lomocoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-loomnetwork {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-loopring {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-lottoshares {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-ltbcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-luckchain {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-luckycoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-lunyr {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-lux {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-luxcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-lykke {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-magi {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-magiccoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-maidsafecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-maker {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-maryjane {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-mastercoin (omni) {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-mastercoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-mastercoinomni {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-matchpool {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-maxcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-mazacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-mcap {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-medibloc {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-megacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-melon {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-memorycoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-mergecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-metal {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-metaverseent {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-metaverseetp {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-mgw {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-midas-rezerv {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-midas.rezerv {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-mincoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-mintcoin (2) {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-mintcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-missing {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-mithril {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-mixin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-mmnxt {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-mobilego {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-monaco {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-monacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-monero {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-monetaryunit {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-monetha {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-mooncoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-mothership {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-muse {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-musicoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-mxn {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-mybittoken {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-myriad {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-myriadcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-mysterium {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-namecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-nano {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-nas {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-nautiluscoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-navajo {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-navajocoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-navcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-neblio {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-nebulas {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-nem {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-neo {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-neodice {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-neoscoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-netcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-newyorkcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-nexium {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-nexus economy {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-nexus {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-nexuseconomy {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-nimiq {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-noblecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-node {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-noirshares {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-nolimitcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-novacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-nubits {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-numeraire {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-nushares {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-nvo {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-nxt {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-nxtprivacy {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-nxttycoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-nxtventure {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-obits {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-octocoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-okcash {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-omisego {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-omni {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-omnicoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-ontology {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-opal {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-orbitcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-ost {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-paccoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-pacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-pandacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-pandacoin_coin_transparent {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-zetacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-pangeapoker {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-pangeapokercoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-particl {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-particle 2 {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-particle {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-pascalcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-patientory {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-paycoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-paypie {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-peercoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-peerplays {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-pepecash {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-phoenixcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-php {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-piggycoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-pillar {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-zennies {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-pivx {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-pln {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-pluton {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-poet {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-polybius {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-polymath {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-popularcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-populous {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-positron {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-postcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-potcoin 2 {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-potcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-potcoinlogo {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-powerledger {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-primecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-privatebet {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-prizm {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-projectdecorum {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-pseudocash {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-pundix {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-pura {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-putincoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-qash {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-qibuck {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-qora {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-qtum {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-quantstamp {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-quantum {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-quantumresis... {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-quantumresis {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-quark {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-quatloocoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-qwark {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-r-270x250 {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-radium {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-raiblocks {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-raidennetwor {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-razor {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-rchain {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-redcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-reddcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-regalcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-requestnetwork {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-revain {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-rialto {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-ribbitrewards {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-riecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-rimbit {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-ripiocredit... {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-ripiocredit {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-rise {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-rlc {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-roulettetoken {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-round {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-roxcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-rub {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-rubycoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-safeexchang... {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-safeexchang {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-safeexchange {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-safeexchangecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-saffroncoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-salt {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-salus {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-santimentnet {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-sapience aifx {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-saturn2coin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-scorecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-scotcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-securecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-sek {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-sembro.token {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-sequence {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-sexcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-sgd {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-shadowcash 2 {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-shadowcash {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-zencash {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-shadowcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-sharkfund0 {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-shift {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-siacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-sibcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-silkcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-singulardtv {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-sirinlabstoken {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-sixeleven {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-skycoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-skynet {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-slimcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-smartcash {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-smileycoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-snowballs {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-soarcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-solarcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-solarfarm {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-solorfarm {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-sonm {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-sophiatx {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-spectrecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-sphere {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-sportyco {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-spreadcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-sprouts {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-starta {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-startcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-status {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-stealthcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-steem {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-steemdollars {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-stellar {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-stellarlumens {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-sterlingcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-storj {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-storjcoin x {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-storjcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-storjcoinx {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-storm {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-stox {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-stratis {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-substratum {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-supercoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-supernet {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-swarm {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-swarmcity {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-sync {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-synccoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-syndicate {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-synereo {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-synergy {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-syscoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-taas {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-tekcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-tenx {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-terracoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-teslacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-tether {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-thechampcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-thedao {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-tickets {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-tilecoin 2 {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-tilecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-timenewbank {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-titcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-tixcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-tokencard {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-tokes {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-tradebots {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-triggers {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-tron {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-trumpcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-trustplus {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-ubiq {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-ucicoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-ufocoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-ultracoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-unbreakablecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-unityingot {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-unobtanium 2 {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-unobtanium {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-uro-coin-logo {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-uro {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-usd {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-usde {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-utilitycoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-utilitycoin.png {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-utrust {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-vanillacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-vcash {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-vechain {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-veltor {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-verge {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -5px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-vericoin 2 {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -40px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-vericoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -75px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-veritaseum {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -110px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-veriumreserve {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -145px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-veros {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -180px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-vertacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -215px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-vertcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -250px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-viacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -285px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-vibe {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-virtacoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -355px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-vootcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -390px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-voxels {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -425px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-vpncoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -460px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-vslice {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -495px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-vslice_white {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -530px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-vtorrent {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -565px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-wagerr {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -600px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-walton {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -635px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-waltonchain {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -670px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-wanchain {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -705px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-wankcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -740px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-waves {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -775px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-wavescommuni {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -810px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-wax {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -845px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-waykichain {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -880px -880px;
+	background-size: 945px 945px;
+}
+
+.sprite-wetrust {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -5px;
+	background-size: 945px 945px;
+}
+
+.sprite-whitecoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -40px;
+	background-size: 945px 945px;
+}
+
+.sprite-wildbeastblock {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -75px;
+	background-size: 945px 945px;
+}
+
+.sprite-wings {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -110px;
+	background-size: 945px 945px;
+}
+
+.sprite-woodcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -145px;
+	background-size: 945px 945px;
+}
+
+.sprite-worldcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -180px;
+	background-size: 945px 945px;
+}
+
+.sprite-xaurum {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -215px;
+	background-size: 945px 945px;
+}
+
+.sprite-xcurrency {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -250px;
+	background-size: 945px 945px;
+}
+
+.sprite-xljhog {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -285px;
+	background-size: 945px 945px;
+}
+
+.sprite-xrp {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -320px;
+	background-size: 945px 945px;
+}
+
+.sprite-xtrabytes {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -355px;
+	background-size: 945px 945px;
+}
+
+.sprite-xxxcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -390px;
+	background-size: 945px 945px;
+}
+
+.sprite-ybcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -425px;
+	background-size: 945px 945px;
+}
+
+.sprite-ybcoin_logo_60 {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -460px;
+	background-size: 945px 945px;
+}
+
+.sprite-yocoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -495px;
+	background-size: 945px 945px;
+}
+
+.sprite-zar {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -530px;
+	background-size: 945px 945px;
+}
+
+.sprite-zcash {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -565px;
+	background-size: 945px 945px;
+}
+
+.sprite-zccoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -600px;
+	background-size: 945px 945px;
+}
+
+.sprite-zclassic {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -635px;
+	background-size: 945px 945px;
+}
+
+.sprite-zcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -670px;
+	background-size: 945px 945px;
+}
+
+.sprite-zeitcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -705px;
+	background-size: 945px 945px;
+}
+
+.sprite-zrcoin {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -740px;
+	background-size: 945px 945px;
+}
+
+.sprite-gameleaguecoin {
+    width: 24px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -775px;
+	background-size: 945px 945px;
+}
+
+.sprite-adelphoi {
+    width: 24px;
+    height: 25px;
+    background: url("spritesheet.png") -915px -810px;
+	background-size: 945px 945px;
+}
+
+.sprite-pangea poker {
+    width: 25px;
+    height: 24px;
+    background: url("spritesheet.png") -915px -845px;
+	background-size: 945px 945px;
+}
+
+.sprite-shadowcoin 2 {
+    width: 25px;
+    height: 22px;
+    background: url("spritesheet.png") -915px -879px;
+	background-size: 945px 945px;
+}
+
+.sprite-1 {
+    width: 25px;
+    height: 25px;
+    background: url("spritesheet.png") -320px -635px;
+	background-size: 945px 945px;
+}
+
